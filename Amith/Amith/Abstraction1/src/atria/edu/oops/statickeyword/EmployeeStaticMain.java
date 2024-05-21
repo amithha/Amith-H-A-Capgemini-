@@ -6,7 +6,7 @@ public class EmployeeStaticMain {
 		System.out.println(EmployeeStatic.getCompanyName());
 		EmployeeStatic e1=new EmployeeStatic("RAHUL",101);
 		System.out.println(e1);
-		EmployeeStatic eTwo=new EmployeeStatic("Azhar",150);
+		EmployeeStatic eTwo=new EmployeeStatic("Amith",150);
 		System.out.println(eTwo);
 		
 		
